@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "omar-gke-example",
+  "private_key_id": "ffb2e4870ad00aa0737e0a1ce589b3af1c5f405a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjea/IC4EOTUkT\npZotNeBhKW89fuaxnKoIOarPj0pA8FlDJL5N8DmRSuJVQ8LucfGA/eY02Yhg2JBr\nfXyTpYrIRCi2L9hU4MPtrFkHCgoGBhNunNl0fqUy6qJriJ3kpQnDhaVFXiihkynd\nn4BQNCWwJt7Xg4eddcV3CTQ7rMhD/qkKyT4NNawKaM9VB2HGH+fEgihc8QBonjx2\nUECTGtUvmhmm3sVD9LVnFzV5Hqnb/zr+upQUPUrQPl2Oiu8i2BTdmsTT75YTNKL6\nuEDSFjzqesnAGrH7vddxaO14nqxApUvsh4fUGuzH00EfchybHPPrDtcRt+NP2B3/\nzcRV3gXfAgMBAAECggEANx0cfVYbkYXO4FfRjfJ/DmLYxSPWhQTrclB23PlTMGeX\nwIJPwpj935Uej16EBr3VjQaMqT65suTwc7zf1itWicQo8ZtZ1OveQm/7p9rjnDpK\nLN2mlpbn/S2LyrNJgD9/9jJFkQh4rFigIb7XlLKwDh5cvM30V8rP4xzwRjovXnSe\n/X3FY1voSJr+HSX9ElWgFVN8trRmYmONGU7hODh0r2cpLgdHu7Qsi6jD1vmSTIuO\nWrIgikg/mD8YETHd4vOEXQAbDFy4N48SLj0h/kA0FR1gn9vVresgEo1Hz55hngSS\nx+jpviXgyiL0u9Kc9+g8kfeXZYEJX6wde+5f+E3cQQKBgQDmkmHxa0r+dNMXRIrS\npFzPZ/CGBLMBHckGAIIpAw0ADpryeTQn5ga4DeBTCLmsO8ZNcHSHQIJE7AmIMhk7\n9nBJaXotueEPPFF4OG/ke0OJuJ/WfF63tvNTWEdIwGVOHap+5g8JTPTJY35N4oY2\n+Hxi4LArc2g4X1XY+nzktvGYIQKBgQC1gQDaucrvhxw9VClANrDFt4PVmbQhZLG9\nx1Cs68N78F7iV3/XOq9iw/2MsQ2UjE6hXHJjZTj6vVl0RqC6Vf7maLWXA+gHu+8p\ncjG90nVhOranPnIS4YWK7R9YWvOvTkx8ojqyYEUHM8PPRszzzKATDGJK7ep2aRIQ\n1dwkcoPd/wKBgQCgUg5aMDFgBtk0J4ujdXe3G12JwkC5OP2q97WJUL68WGtyx8X1\nLCNl3PgqpDl+Qb3b4KKV3Mv3omvqUHNtVyiyUu4KV2HfFyDKx+s9YlwOqdox6B5v\n/Xzpact/EZAfJc+EFvFDlUfrtAuBmk2acWMD2ZmFTOSdteRaT6mB2pbYIQKBgBaO\nAV0s2VsKnye/3aBtK2pmc6uHfiroKG485nmWkqREKoZV+Tz1vfW4BToGhnl/NgY3\nRr+zRHFkNkmMvUxqg1J+kJJDmgHcCMxNtICyNoPul+QQjnxqKf4pmUuRgda3FCoo\nvsKL1AghFqQbWDyzoPC9CTnmdsxgIi6VZNXipSBhAoGAar8Pk0/HKDA+KxFVA/3g\nMsCHH+ny4gMXcQEiBOIDN5bo+4awnjaY/daix/1ohFzEoGgzEA61hY4P3u9R9Wje\njCXTGL5pUCG+jPiH9cCBc2Wc+eOcJvurXtyyCwDsLTZoeWep+qZi3yCWbuTeBtDz\nu7zWR8IrwCVBEjYYbSpjZ4U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vishvarodrigo@omar-gke-example.iam.gserviceaccount.com",
+  "client_id": "108690825050002313649",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vishvarodrigo%40omar-gke-example.iam.gserviceaccount.com"
+}
